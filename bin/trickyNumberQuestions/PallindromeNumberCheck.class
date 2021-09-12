@@ -1,0 +1,20 @@
+Êþº¾   ; 0  ,trickyNumberQuestions/PallindromeNumberCheck  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this .LtrickyNumberQuestions/PallindromeNumberCheck; isPallindromNumber (I)V	    java/lang/System   out Ljava/io/PrintStream;  Entered number is Palindrome
+    java/io/PrintStream   println (Ljava/lang/String;)V   Entered number is non Palindrome num I temp rem rev 
+StackMapTable main ([Ljava/lang/String;)V
+  	
+  *   args [Ljava/lang/String; pald 
+SourceFile PallindromeNumberCheck.java !               /     *· ±    
+                 
+          Ê     ;=>6§ 
+p>
+h`6
+l<ÿì  ² ¶ § ² ¶ ±    
+   2         
+ 	  
+     ! 
+ '  /  2  :     4    ;  
+     ;   !   9 " !   7 # !   4 $ !  %    þ 
+ 	 & '     K     » Y· (L+y¶ )±    
+                    + ,     - 
+   .    /
